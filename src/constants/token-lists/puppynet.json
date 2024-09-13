@@ -1,0 +1,108 @@
+{
+    "name": "Shib: Puppynet",
+    "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/logo.png",
+    "timestamp": "2024-04-19T08:50:36.056Z",
+    "tokens": [
+        {
+            "name": "Wrapped Ether",
+            "address": "0x0C477AE2E8E5ce1666468e44b066542Fa46f9F72",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 157,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0x12CF8bf22Be843f8c065a2474d1C439daDD238b6",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 157,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "address": "0xAc720702Df63fa92416B3dEB24Dc4a1854f73330",
+            "chainId": 157,
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
+        },
+        {
+            "address": "0x367a6722F2e2b09b6024A1C05deAD45e68CE385A",
+            "chainId": 157,
+            "name": "DOGE KILLER",
+            "symbol": "LEASH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x27C70Cd1946795B66be9d954418546998b546634/logo.png"
+        },
+        {
+            "address": "ETH",
+            "chainId": 157,
+            "name": "BONE",
+            "symbol": "BONE",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/JQwMYN0/bone-icon.png"
+        },
+        {
+            "address": "0x0000000000000000000000000000000000001010",
+            "chainId": 157,
+            "name": "BONE",
+            "symbol": "BONE",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/JQwMYN0/bone-icon.png"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x63E22542204dA9978218FbB3C10E1c0f6D1DC2a7",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 157,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "0x236a6f60B554813486D84d581747217d77Af05ff",
+            "chainId": 157,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "address": "0x3a042493688489d3482e39435c2F6C8cF85a9d54",
+            "chainId": 157,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "address": "0x41c3F37587EBcD46C0F85eF43E38BcfE1E70Ab56",
+            "chainId": 157,
+            "name": "Wrapped BONE",
+            "symbol": "WBONE",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/JQwMYN0/bone-icon.png"
+        },
+        {
+            "address": "0x78f022230EaE6E05D8739E83a14b0Cf1D00CfaD5",
+            "chainId": 157,
+            "name": "xFUND",
+            "symbol": "xFUND",
+            "decimals": 18,
+            "logoURI": "https://shib.mypinata.cloud/ipfs/Qmdz8jpXYp4WJV1J3U6Mo2H2psSfQqykaVH3KN8SvVPyAd"
+        },
+        {
+            "address": "0x27Ad57c007fa9Ef6BC4D2846f341e316e0445dEe",
+            "chainId": 157,
+            "name": "FUND",
+            "symbol": "FUND",
+            "decimals": 18,
+            "logoURI": "https://shib.mypinata.cloud/ipfs/QmPBefQAtukprhSBh6nScd1bbVMLhwFod1CLFX7iJWftbQ"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

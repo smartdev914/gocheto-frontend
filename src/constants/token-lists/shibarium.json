@@ -1,0 +1,221 @@
+{
+    "name": "Shib: Shibarium",
+    "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/logo.png",
+    "timestamp": "2024-04-19T08:50:36.056Z",
+    "tokens": [
+        {
+            "chainId": 109,
+            "asset": "c60_t0x0726959d22361B79e4D50A5D157b044A83eC870d",
+            "type": "SHIBARIUM",
+            "address": "0x0726959d22361B79e4D50A5D157b044A83eC870d",
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "pairs": []
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "asset": "c109_t0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "address": "0xE984D89fb00D0B44E798A55dc41EA598B0b0899d",
+            "chainId": 109,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+            "asset": "c109_t0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Ralph",
+            "symbol": "RALPH",
+            "address": "0x2BB0469Cc500154A6f2f91Af46e739A0CC21bF00",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x2bb0469cc500154a6f2f91af46e739a0cc21bf00/logo.png",
+            "asset": "c109_t0x2BB0469Cc500154A6f2f91Af46e739A0CC21bF00",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "WBONE",
+            "symbol": "WBONE",
+            "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xc76f4c819d820369fb2d7c1531ab3bb18e6fe8d8/logo.png",
+            "asset": "c109_t0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "BONE",
+            "symbol": "BONE",
+            "address": "ETH",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xc76f4c819d820369fb2d7c1531ab3bb18e6fe8d8/logo.png",
+            "asset": "c109_t0x0000000000000000000000000000000000001010",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "BONE",
+            "symbol": "BONE",
+            "address": "0x0000000000000000000000000000000000001010",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xc76f4c819d820369fb2d7c1531ab3bb18e6fe8d8/logo.png",
+            "asset": "c109_t0x0000000000000000000000000000000000001010",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "USDC",
+            "symbol": "USDC",
+            "address": "0xf010f12dcA0b96D2d6685bf4dB3dbB4Ad500B6Ad",
+            "chainId": 109,
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "asset": "0xf010f12dcA0b96D2d6685bf4dB3dbB4Ad500B6Ad",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDt",
+            "address": "0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
+            "chainId": 109,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xab082b8ad96c7f47ed70ed971ce2116469954cfb/logo.png",
+            "asset": "c109_t0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x495eea66b0f8b636d441dc6a98d8f5c3d455c4c0/logo.png",
+            "asset": "c109_t0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Leash",
+            "symbol": "LEASH",
+            "address": "0x65218A41Fb92637254B4f8c97448d3dF343A3064",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x65218a41fb92637254b4f8c97448d3df343a3064/logo.png",
+            "asset": "c109_t0x65218A41Fb92637254B4f8c97448d3dF343A3064",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Ryoshi&#39;s Coin",
+            "symbol": "RYOSHI",
+            "address": "0x3751D1A5e0CdDD08BF91A8e115E44BA5359e52B1",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x3751d1a5e0cddd08bf91a8e115e44ba5359e52b1/logo.png",
+            "asset": "c109_t0x3751D1A5e0CdDD08BF91A8e115E44BA5359e52B1",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Shytoshi&amp;#39;s Coin",
+            "symbol": "SHYTOSHI",
+            "address": "0xee70777C4649B7937A86343F5a54718892572859",
+            "chainId": 109,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xee70777c4649b7937a86343f5a54718892572859/logo.png",
+            "asset": "c109_t0xee70777C4649B7937A86343F5a54718892572859",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Yuan",
+            "symbol": "YUAN",
+            "address": "0xae12763590a4a77d69d1d528f716428f587aa4be",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xae12763590a4a77d69d1d528f716428f587aa4be/logo.png",
+            "asset": "c109_t0xae12763590a4a77d69d1d528f716428f587aa4be",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Sharbi",
+            "symbol": "SHARBI",
+            "address": "0x3a71e24Aec6F1004780450dB9Bfaf6DCB72965fB",
+            "chainId": 109,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x3a71e24aec6f1004780450db9bfaf6dcb72965fb/logo.png",
+            "asset": "c109_t0x3a71e24Aec6F1004780450dB9Bfaf6DCB72965fB",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Aeon AI",
+            "symbol": "AEON",
+            "address": "0xd6560eddb9379b8173dba502e6f21e1674d563f2",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xd6560eddb9379b8173dba502e6f21e1674d563f2/logo.png",
+            "asset": "c109_t0xd6560eddb9379b8173dba502e6f21e1674d563f2",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Financial and Educational Freedom",
+            "symbol": "FEF",
+            "address": "0x9Ee1fabE85A5A65C2b17Fd17D430FbF72FA895Af",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x9ee1fabe85a5a65c2b17fd17d430fbf72fa895af/logo.png",
+            "asset": "c109_t0x9Ee1fabE85A5A65C2b17Fd17D430FbF72FA895Af",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "Voltron Inu",
+            "symbol": "VOLT",
+            "address": "0x6Dd1f1d8Ca0bAB1123Ad6945a75bd29d84c702ec",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0x6dd1f1d8ca0bab1123ad6945a75bd29d84c702ec/logo.png",
+            "asset": "c109_t0x6Dd1f1d8Ca0bAB1123Ad6945a75bd29d84c702ec",
+            "type": "SHIBARIUM",
+            "pairs": []
+        },
+        {
+            "name": "MarSwap Farm",
+            "symbol": "MSWAPF",
+            "address": "0xABbAF2746C46f8F269e0a252285ABE9d8D8CDf63",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/assets/0xabbaf2746c46f8f269e0a252285abe9d8d8cdf63/logo.png",
+            "asset": "c109_t0xABbAF2746C46f8F269e0a252285ABE9d8D8CDf63",
+            "type": "SHIBARIUM",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

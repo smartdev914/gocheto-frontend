@@ -1,0 +1,36 @@
+{
+    "name": "Shib: Puppynet",
+    "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/logo.png",
+    "timestamp": "2024-04-19T08:50:36.056Z",
+    "tokens": [
+        {
+            "name": "Dai Stablecoin",
+            "address": "0x437678C7A729DA4E20772a26CcE153E774734685",
+            "symbol": "DAI",
+            "decimals": 6,
+            "chainId": 97,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0xa9d572BC4F41533257f9B6C1CC39C5fE1272A53f",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 157,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "0xAA69488B8ec9608cE7C9CF45cdf11A2D1fB9F1b3",
+            "chainId": 157,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

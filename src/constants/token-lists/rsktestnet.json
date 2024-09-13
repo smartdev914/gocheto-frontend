@@ -1,0 +1,36 @@
+{
+    "name": "RSK: Testnet",
+    "logoURI": "https://raw.githubusercontent.com/SashaDesigN/assets/master/blockchains/shibarium/logo.png",
+    "timestamp": "2024-04-19T08:50:36.056Z",
+    "tokens": [
+        {
+            "name": "Dai Stablecoin",
+            "address": "0xc106327e90Aa85A4Dd4Cd31f2E676459B3F5f81c",
+            "symbol": "DAI",
+            "decimals": 6,
+            "chainId": 31,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x3CDdc6764D5e7256f0F427508ADb6e5a969feDb6",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 31,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "0x11698417a0B237900C19c484Df62ceF2Df4d8D41",
+            "chainId": 31,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
